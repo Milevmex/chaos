@@ -1,0 +1,11 @@
+obj.-name    obj.-code    obj.-descr
+
+диджей           dj         диджей
+
+песня           song        песня
+
+плейлист        playlist    список песен
+
+слушатель       listener    слушатель
+
+оценивание      evaluation  оценка работы
